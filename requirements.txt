@@ -3,7 +3,7 @@ Jinja2
 Werkzeug<0.16
 Pygments<2.6;python_version<'3'
 Pygments;python_version>='3'
-SQLAlchemy
+SQLAlchemy<2.0
 PyMySQL
 simplejson
 Babel
